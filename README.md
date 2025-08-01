@@ -4,7 +4,7 @@ Extract. Analyze. Strategize.
 An AI-driven tool that reverse-engineers competitor ad campaigns by pulling live ad data, analyzing messaging with GPT & Azure AI, and generating actionable marketing insights — all in minutes.
 
 🚀 Features
-Ad Data Extraction: Pulls live ads from sources like Facebook Ads Library or Google Ads.
+Ad Data Extraction: Pulls live ads from sources like Facebook Ads Library and Google Ads.
 
 AI Sentiment & Strategy Analysis: Uses Azure AI + GPT to detect tone, key themes, and emotional triggers.
 
@@ -13,7 +13,7 @@ Competitive Insights: Summarizes campaign strategies (positioning, CTAs, messagi
 Visual Dashboard: Interactive dashboard with sentiment charts, word clouds, and actionable takeaways.
 
 📸 Demo Preview
-(Screenshot/GIF placeholder — replace with real visuals once ready)
+(See AI Analyzer image)
 
 
 🔧 Tech Stack
@@ -25,4 +25,4 @@ OpenAI GPT-4 (strategy summarization & insights)
 
 Azure AI Language Services (sentiment analysis & key phrase extraction)
 
-Facebook Ads Library API (ad data collection)
+Facebook Ads Library API & Google Ads (ad data collection)
