@@ -1,0 +1,6 @@
+streamlit
+openai
+azure-ai-textanalytics
+requests
+matplotlib
+wordcloud
